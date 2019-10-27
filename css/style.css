@@ -76,7 +76,12 @@ label {
 }
 
 
+logo-container img {
+margin-left: -150px;
+width: 100%;
+height:auto;
 
+}
 
 /*--header--*/
 
@@ -3981,10 +3986,10 @@ ul.social-icons3.two li a {
 		padding-top: 3em;
 	}
 }
-@media(max-width:1366px) { 
+@media(max-width:1366px) {
     .box{padding:49.8px;}
 }
-@media(max-width:1366px) { 
+@media(max-width:1366px) {
     .r_boxes {
        position: inherit;
     }
